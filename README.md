@@ -1,16 +1,14 @@
-<<<<<<< HEAD
+# Pengelolaan-Data-Pasien-Rawat-Inap-PHP-Native
+
+**Manajer Login Details**
+
+* Email   : adri@gmail.com 
+
+* Password: Manajer / manajer
 
 **Admin Login Details**
 
-* Email   : admin@mail.com 
+* ID      : 5VIFT
 
-* Password: Password@123
-
-**Doctor Login Details**
-
-* ID      : YDS7L
-
-* Password: password
+* Password: admin
 =======
-# Pengelolaan-Data-Pasien-Rawat-Inap-PHP-Native
->>>>>>> 149cfe4dad13b87326eee695fd50342d9d1861eb
