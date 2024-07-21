@@ -6,7 +6,7 @@ Aplikasi pengelolaan data pasien rawat inap menggunakan PHP Native
 
 * Email   : adri@gmail.com 
 
-* Password: Manajer / manajer
+* Password: manajer / manager
 
 **Admin Login Details**
 
